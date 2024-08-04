@@ -1,4 +1,4 @@
-![logo](https://github.com/Ujjwal27022004/Ujjwal27022004/blob/main/banner.mp4)
+![logo](https://github.com/Ujjwal27022004/Ujjwal27022004/blob/main/IT%E2%80%99S%20UJJWAL.gif)
 <h1 align="center">Hi 👋, I'm Ujjwal Patil</h1>
 <h3 align="center">Algorithm Architect🖥️ | Code Poet🎶</h3>
 
